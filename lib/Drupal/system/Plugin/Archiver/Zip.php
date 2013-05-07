@@ -5,7 +5,7 @@
  * Contains \Drupal\system\Plugin\Core\Archiver\Zip.
  */
 
-namespace Drupal\system\Plugin\Core\Archiver;
+namespace Drupal\system\Plugin\Archiver;
 
 use Drupal\Component\Archiver\Zip as BaseZip;
 use Drupal\Component\Annotation\Plugin;

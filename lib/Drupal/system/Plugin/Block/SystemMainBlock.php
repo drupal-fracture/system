@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\system\Plugin\block\block\SystemMainBlock.
+ * Contains \Drupal\system\Plugin\Block\SystemMainBlock.
  */
 
-namespace Drupal\system\Plugin\block\block;
+namespace Drupal\system\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;

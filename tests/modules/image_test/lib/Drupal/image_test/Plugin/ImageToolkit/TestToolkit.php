@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\image_test\Plugin\system\imagetoolkit\TestToolkit.
+ * Contains \Drupal\image_test\Plugin\ImageToolkit\TestToolkit.
  */
 
-namespace Drupal\image_test\Plugin\system\imagetoolkit;
+namespace Drupal\image_test\Plugin\ImageToolkit;
 
 use Drupal\Component\Plugin\PluginBase;
 use Drupal\Component\Annotation\Plugin;

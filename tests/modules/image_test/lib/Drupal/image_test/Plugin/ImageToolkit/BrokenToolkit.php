@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\image_test\Plugin\system\imagetoolkit\BrokenToolkit.
+ * Contains \Drupal\image_test\Plugin\ImageToolkit\BrokenToolkit.
  */
 
-namespace Drupal\image_test\Plugin\system\imagetoolkit;
+namespace Drupal\image_test\Plugin\ImageToolkit;
 
 use Drupal\Component\Annotation\Plugin;
 use Drupal\Core\Annotation\Translation;

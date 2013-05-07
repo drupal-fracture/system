@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\system\Plugin\system\imagetoolkit\GDToolkit;.
+ * Contains \Drupal\system\Plugin\ImageToolkit\GDToolkit;.
  */
 
-namespace Drupal\system\Plugin\system\imagetoolkit;
+namespace Drupal\system\Plugin\ImageToolkit;
 
 use Drupal\Component\Plugin\PluginBase;
 use Drupal\Component\Annotation\Plugin;

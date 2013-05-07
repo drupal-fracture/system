@@ -5,7 +5,7 @@
  * Contains \Drupal\system\Plugin\Core\Archiver\Tar.
  */
 
-namespace Drupal\system\Plugin\Core\Archiver;
+namespace Drupal\system\Plugin\Archiver;
 
 use Drupal\Component\Archiver\Tar as BaseTar;
 use Drupal\Component\Annotation\Plugin;
