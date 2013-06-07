@@ -74,12 +74,12 @@ small .admin-link:after {
   vertical-align: top;
 }
 #system-modules .expand .inner {
-  background: transparent url(../../misc/menu-collapsed.png) left .6em no-repeat;
+  background: transparent url(../../../misc/menu-collapsed.png) left .6em no-repeat;
   margin-left: -12px;
   padding-left: 12px;
 }
 #system-modules .expanded .expand .inner {
-  background: transparent url(../../misc/menu-expanded.png) left .6em no-repeat;
+  background: transparent url(../../../misc/menu-expanded.png) left .6em no-repeat;
 }
 #system-modules label {
   color: #1d1d1d;
@@ -150,13 +150,13 @@ a.module-link {
   float: left; /* LTR */
 }
 a.module-link-help {
-  background: url(../../misc/help.png) 0 50% no-repeat; /* LTR */
+  background: url(../../../misc/help.png) 0 50% no-repeat; /* LTR */
 }
 a.module-link-permissions {
-  background: url(../../misc/permissions.png) 0 50% no-repeat; /* LTR */
+  background: url(../../../misc/permissions.png) 0 50% no-repeat; /* LTR */
 }
 a.module-link-configure {
-  background: url(../../misc/configure.png) 0 50% no-repeat; /* LTR */
+  background: url(../../../misc/configure.png) 0 50% no-repeat; /* LTR */
 }
 .module-help {
   margin-left: 1em; /* LTR */
@@ -183,10 +183,10 @@ table.system-status-report td.status-icon div {
   width: 16px;
 }
 table.system-status-report tr.error td.status-icon div {
-  background-image: url(../../misc/message-16-error.png);
+  background-image: url(../../../misc/message-16-error.png);
 }
 table.system-status-report tr.warning td.status-icon div {
-  background-image: url(../../misc/message-16-warning.png);
+  background-image: url(../../../misc/message-16-warning.png);
 }
 table.system-status-report .status-title {
   width: 25%;

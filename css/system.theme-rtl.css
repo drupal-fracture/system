@@ -67,7 +67,7 @@ ul.menu {
   text-align: right;
 }
 .menu .collapsed {
-  list-style-image: url(../../misc/menu-collapsed-rtl.png);
+  list-style-image: url(../../../misc/menu-collapsed-rtl.png);
 }
 
 /**

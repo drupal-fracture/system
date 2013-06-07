@@ -172,7 +172,7 @@ abbr.form-required, abbr.tabledrag-changed, abbr.ajax-changed {
   text-align: right; /* LTR */
 }
 .more-help-link a {
-  background: url(../../misc/help.png) 0 50% no-repeat; /* LTR */
+  background: url(../../../misc/help.png) 0 50% no-repeat; /* LTR */
   padding: 1px 0 1px 20px; /* LTR */
 }
 
@@ -245,7 +245,7 @@ summary {
   padding-right: 0.5em;
 }
 .collapse-processed > summary:before {
-  background: url(../../misc/menu-expanded.png) 0px 100% no-repeat; /* LTR */
+  background: url(../../../misc/menu-expanded.png) 0px 100% no-repeat; /* LTR */
   content: "";
   float: left;
   height: 1em;
@@ -303,7 +303,7 @@ th.checkbox {
   border-radius: 3px;
 }
 .progress .filled {
-  background: #0072b9 url(../../misc/progress.gif);
+  background: #0072b9 url(../../../misc/progress.gif);
 }
 
 /**
@@ -316,11 +316,11 @@ ul.menu {
   text-align: left; /* LTR */
 }
 .menu .expanded {
-  list-style-image: url(../../misc/menu-expanded.png);
+  list-style-image: url(../../../misc/menu-expanded.png);
   list-style-type: circle;
 }
 .menu .collapsed {
-  list-style-image: url(../../misc/menu-collapsed.png); /* LTR */
+  list-style-image: url(../../../misc/menu-collapsed.png); /* LTR */
   list-style-type: disc;
 }
 ul.menu li {
@@ -452,7 +452,7 @@ ul.tabs {
 /* @TODO Separate tables and messages styling */
 .messages--status {
   border-color: #c9e1bd #c9e1bd #c9e1bd #77b259;  /* LTR */
-  background-image: url(../../misc/message-16-ok.png);
+  background-image: url(../../../misc/message-16-ok.png);
   background-position: 12px 19px;  /* LTR */
 }
 .messages--status,
@@ -465,7 +465,7 @@ table tr.ok {
 }
 
 .messages--warning {
-  background-image: url(../../misc/message-16-warning.png);
+  background-image: url(../../../misc/message-16-warning.png);
   border-color: #f4daa6 #f4daa6 #f4daa6 #e09600;  /* LTR */
 }
 .messages--warning,
@@ -478,7 +478,7 @@ table tr.warning {
 }
 
 .messages--error {
-  background-image: url(../../misc/message-16-error.png);
+  background-image: url(../../../misc/message-16-error.png);
   border-color: #f9c9bf #f9c9bf #f9c9bf #e62600;  /* LTR */
 }
 .messages--error,
